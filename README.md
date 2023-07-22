@@ -10,7 +10,7 @@ This is the official software suite for AZOS GNU/Linux and other Arch-Based dist
 
 **basHelper** : [Learn More](https://github.com/RedFireSoftwareEntertainment/basHelper)
 
-**fastFlash** : [Learn More](https://github.com/RedFireSoftwareEntertainment/basHelper)
+**fastFlash** : [Learn More](https://github.com/RedFireSoftwareEntertainment/fastFlash)
 
 **fileSaver** : [Learn More](https://github.com/RedFireSoftwareEntertainment/basHelper)
 
