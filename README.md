@@ -12,7 +12,7 @@ This is the official software suite for AZOS GNU/Linux and other Arch-Based dist
 
 **fastFlash** : [Learn More](https://github.com/RedFireSoftwareEntertainment/fastFlash)
 
-**fileSaver** : [Learn More](https://github.com/RedFireSoftwareEntertainment/basHelper)
+**smartTerm** : [Learn More](https://github.com/RedFireSoftwareEntertainment/smartTerm)
 
 ## Contributing
 
@@ -27,6 +27,10 @@ Red Fire Software Entertainment:
  **-** *AZ*
  
  **-** *Blox*
+
+ **-** *YTG9*
+
+ **-** *kont_kont2*
 
 ## Legal
 
