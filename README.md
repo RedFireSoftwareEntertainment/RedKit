@@ -30,6 +30,16 @@ Red Fire Software Entertainment:
 
  **-** *kont_kont2*
 
+## Resources for Contributors
+
+If you wanna know what this category is here for, click [here](https://sites.google.com/view/redkit/contribute).
+
+*makeXX.sh*
+`chmod +x XX
+sudo cp XX /usr/bin`
+Replace XX with your own accronym.
+
+
 ## Legal
 
 The RedKit project is part of the AZOS GNU/Linux project so all [Legal info](https://sites.google.com/view/azosofficialsite/legal) applies. This info applies and protects all people that have worked on RedKit.
