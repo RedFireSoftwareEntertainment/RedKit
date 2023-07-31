@@ -38,6 +38,9 @@ If you wanna know what this category is here for, click [here](https://sites.goo
 
 `
 chmod +x XX
+`
+
+`
 sudo cp XX /usr/bin
 `
 
