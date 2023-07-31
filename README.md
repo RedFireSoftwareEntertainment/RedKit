@@ -32,7 +32,7 @@ Red Fire Software Entertainment:
 
 ## Resources for Contributors
 
-If you wanna know what this category is here for, click [here](https://sites.google.com/view/redkit/contribute).
+**If you wanna know what this category is here for, click [here](https://sites.google.com/view/redkit/contribute).**
 
 *makeXX.sh*
     
