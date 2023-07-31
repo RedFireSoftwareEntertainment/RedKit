@@ -12,8 +12,6 @@ This is the official software suite for AZOS GNU/Linux and other Arch-Based dist
 
 **fastFlash** : [Learn More](https://github.com/RedFireSoftwareEntertainment/fastFlash)
 
-**systemFix** : [Learn More](https://github.com/RedFireSoftwareEntertainment/smartTerm)
-
 ## Contributing
 
 If you would like to support this project then click here.
