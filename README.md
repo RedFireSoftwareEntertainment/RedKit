@@ -35,8 +35,12 @@ Red Fire Software Entertainment:
 If you wanna know what this category is here for, click [here](https://sites.google.com/view/redkit/contribute).
 
 *makeXX.sh*
-`chmod +x XX
-sudo cp XX /usr/bin`
+
+`
+chmod +x XX
+sudo cp XX /usr/bin
+`
+
 Replace XX with your own accronym.
 
 
