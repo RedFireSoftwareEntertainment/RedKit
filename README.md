@@ -49,4 +49,5 @@ The RedKit project is part of the AZOS GNU/Linux project so all [Legal info](htt
 
 **Copyright notices:**
 
-Copyright© Red Fire Software Entertaiment Group 2019-2023  
+Copyright© Red Fire Software Entertaiment Group 2019-2023 
+Copyright© RedKit Contributors 2023-2023 
