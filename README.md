@@ -45,7 +45,9 @@ Replace XX with your own accronym.
 
 ## Legal
 
-The RedKit project is part of the AZOS GNU/Linux project so all [Legal info](https://sites.google.com/view/azosofficialsite/legal) applies. This info applies and protects all people that have worked on RedKit.
+**The RedKit project is part of the AZOS GNU/Linux project so all [Legal info](https://sites.google.com/view/azosofficialsite/legal) applies. This info applies and protects all people that have worked on RedKit.**
+
+**[For Contributing guidelines and Code of Conduct](https://github.com/RedFireSoftwareEntertainment/AZOS-GNU-Linux/blob/main/CONTRIBUTING.md)**
 
 **Copyright notices:**
 
