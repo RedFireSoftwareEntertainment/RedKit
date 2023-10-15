@@ -28,8 +28,6 @@ Red Fire Software Entertainment:
 
  **-** *YTG9*
 
- **-** *kont_kont2*
-
 ## Resources for Contributors
 
 **If you wanna know what this category is here for, click [here](https://sites.google.com/view/redkit/contribute).**
