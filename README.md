@@ -49,6 +49,6 @@ Replace XX with your own accronym.
 
 **Copyright notices:**
 
-Copyright© Red Fire Software Entertaiment Group 2019-2023 
+Copyright© Red Fire Software Entertaiment Group 2019-2024 
 
-Copyright© RedKit Contributors 2023-2023 
+Copyright© RedKit Contributors 2023-2024 
